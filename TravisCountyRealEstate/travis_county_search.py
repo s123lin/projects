@@ -7,6 +7,11 @@ from bs4 import BeautifulSoup
 #################################
 search_text = "78759"
 
+####################
+# File output name #
+####################
+file_output_name = "property_id.txt"
+
 ########################################################
 # Access Travis County Website and Search for Zip Code #
 ########################################################
@@ -35,7 +40,7 @@ for link in soup.find_all('a'):
 		if int(number) > total_pages:
 			total_pages = int(number)
 			
-f = open("property_id.txt","w+")
+f = open(file_output_name,"w+")
 
 for data in soup.find_all('span'):
 	extract = data.get('prop_id')
