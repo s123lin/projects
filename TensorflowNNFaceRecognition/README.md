@@ -8,7 +8,7 @@
 
 **Summary**
 
-In this analysis, two versions of the “Inception” CNN model is tested against two different approaches to facial recognition: the classifier and the triplet loss. The main training data was the “Labeled Faces in the Wild” (LFW). This dataset was manually broken into a larger training set (size = 13k images) and smaller validation testing set (size = 48 images).
+In this analysis, two versions of the “Inception” CNN model is tested against two different approaches to facial recognition: the classifier and the triplet loss. The main training data was the “Labeled Faces in the Wild” (LFW). This dataset was manually broken into a larger training set (size = 13k images) and smaller testing set (size = 48 images).
 
 A type of Multi-task CNN was used to for pre-processing of images as it was more effective for images with distorted face angles/expressions.
 
