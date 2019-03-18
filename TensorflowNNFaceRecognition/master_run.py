@@ -1,5 +1,4 @@
 ###########################################################################
-#                Final Project CSCI E-63 Big Data Analytics               #
 #            TensorFlow and Neural Networks for Face Recogniton           #
 ###########################################################################
 #import os
