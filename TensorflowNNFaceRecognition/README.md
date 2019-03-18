@@ -1,5 +1,4 @@
 # Big Data Case Study – Tensorflow and Neural Networks for Face Recognition
-## Final Project for CSCI E-63: Big Data Analytics
 
 **Purpose**: The goal of this project was to create a program package that demonstrated a specific big data case study, and design an analytical test/experiment that illustrates performance of the tools in question.
 
