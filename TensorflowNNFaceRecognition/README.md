@@ -4,11 +4,11 @@
 
 **Packages/Dependencies**: Python 3.5, Tensorflow, Scikit-Image, OpenCV3, SciPy, SciKit-Learn, h5py
 
-**Dataset**: The dataset used is from the [“Labeled Faces in the Wild” (LFW)](http://vis-www.cs.umass.edu/lfw/) and my own dataset (in the repository) that I made from googling images.
+**Dataset**: The dataset used is from the [“Labeled Faces in the Wild” (LFW)](http://vis-www.cs.umass.edu/lfw/) and my own dataset (in the repository) that I made from googling images. LFW Dataset is not included in this repository, and will need to be downloaded in order to run the main experiment. Although the program can be run using the tiny dataset provided in the repository. It is quite small so it might not provide any interesting results, but it serves the purpose of providing a simple and fast demonstration.
 
 **Summary**
 
-In this analysis, two versions of the “Inception” CNN model are tested against two different approaches to facial recognition: the classifier and the triplet loss. The main training data was the “Labeled Faces in the Wild” (LFW). This dataset was manually broken into a larger training set (size = 13k images) and smaller testing set (size = 48 images).
+In this analysis, two versions of the “Inception” CNN model are tested against two different approaches to facial recognition: the classifier and the triplet loss. The main training data came from the “Labeled Faces in the Wild” (LFW) dataset. This dataset was manually broken into a larger training set (size = 13k images) and smaller testing set (size = 48 images).
 
 A type of Multi-task CNN was used to for pre-processing of images as it was more effective for images with distorted face angles/expressions.
 
