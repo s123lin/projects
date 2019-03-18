@@ -8,6 +8,7 @@
 **Dataset**: The dataset used is from the [“Labeled Faces in the Wild” (LFW)](http://vis-www.cs.umass.edu/lfw/) and my own dataset (in the repository) that I made from googling images.
 
 **Summary**
+
 In this analysis, two versions of the “Inception” CNN model is tested against two different approaches to facial recognition: the classifier and the triplet loss. The main training data was the “Labeled Faces in the Wild” (LFW). This dataset was manually broken into a larger training set and smaller validation testing set for demonstrative purposes (size = 48 images).
 
 A type of Multi-task CNN was used to for pre-processing of images as it was more effective for images with distorted face angles/expressions.
@@ -21,6 +22,7 @@ These results suggest to me that the triplet loss is quite effective at handling
 Overall, these results demonstrated that triplet loss is a pretty good approach to facial recognition training, but it most likely limited by the quality of the training data and how many "effective" triplets they can generate.
 
 **To run**
+
 Clone repository and run _master_run.py_ using Python 3.5
 Further details are documented in comments within the script to guide the tweaking of parameters.
 
