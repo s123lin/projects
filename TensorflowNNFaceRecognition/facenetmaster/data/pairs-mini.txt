@@ -1,0 +1,49 @@
+3	21
+Amy_Adams	13	24
+Amy_Adams	14	23
+Amy_Adams	15	22
+Amy_Adams	14	Isla_Fisher	13
+Amy_Adams	16	Isla_Fisher	15
+Amy_Adams	18	Isla_Fisher	17
+Amy_Adams	16	21
+Amy_Adams	17	20
+Amy_Adams	18	19
+Amy_Adams	20	Isla_Fisher	19
+Amy_Adams	22	Isla_Fisher	21
+Amy_Adams	24	Isla_Fisher	23
+Isla_Fisher	13	24
+Isla_Fisher	14	23
+Isla_Fisher	15	22
+Isla_Fisher	14	Zooey_Deschanel	13
+Isla_Fisher	16	Zooey_Deschanel	15
+Isla_Fisher	18	Zooey_Deschanel	17
+Isla_Fisher	16	21
+Isla_Fisher	17	20
+Isla_Fisher	18	19
+Isla_Fisher	20	Zooey_Deschanel	19
+Isla_Fisher	22	Zooey_Deschanel	21
+Isla_Fisher	24	Zooey_Deschanel	23
+Zooey_Deschanel	13	24
+Zooey_Deschanel	14	23
+Zooey_Deschanel	15	22
+Zooey_Deschanel	13	Katy_Perry	14
+Zooey_Deschanel	15	Katy_Perry	16
+Zooey_Deschanel	17	Katy_Perry	18
+Zooey_Deschanel	16	21
+Zooey_Deschanel	17	20
+Zooey_Deschanel	18	19
+Zooey_Deschanel	19	Katy_Perry	20
+Zooey_Deschanel	21	Katy_Perry	22
+Zooey_Deschanel	23	Katy_Perry	24
+Katy_Perry	13	24
+Katy_Perry	14	23
+Katy_Perry	15	22
+Isla_Fisher	13	Katy_Perry	14
+Isla_Fisher	15	Katy_Perry	16
+Isla_Fisher	17	Katy_Perry	18
+Katy_Perry	16	21
+Katy_Perry	17	20
+Katy_Perry	18	19
+Isla_Fisher	19	Katy_Perry	20
+Isla_Fisher	21	Katy_Perry	22
+Isla_Fisher	23	Katy_Perry	24

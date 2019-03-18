@@ -1,0 +1,31 @@
+3	4
+Colin_Powell	145	156
+Condoleezza_Rice	8	Colin_Powell	207
+Condoleezza_Rice	6	11
+Colin_Powell	171	203
+Condoleezza_Rice	10	Colin_Powell	215
+Vladimir_Putin	32	Condoleezza_Rice	10
+Condoleezza_Rice	7	Colin_Powell	193
+Vladimir_Putin	41	Condoleezza_Rice	7
+Vladimir_Putin	25	49
+Vladimir_Putin	34	29
+Condoleezza_Rice	8	9
+Vladimir_Putin	43	Condoleezza_Rice	7
+Vladimir_Putin	28	Condoleezza_Rice	11
+Colin_Powell	236	181
+Condoleezza_Rice	6	10
+Vladimir_Putin	46	Condoleezza_Rice	9
+Condoleezza_Rice	6	Colin_Powell	149
+Condoleezza_Rice	6	Colin_Powell	168
+Vladimir_Putin	39	Condoleezza_Rice	8
+Colin_Powell	190	158
+Vladimir_Putin	41	37
+Vladimir_Putin	36	Condoleezza_Rice	6
+Condoleezza_Rice	9	Colin_Powell	229
+Condoleezza_Rice	9	Colin_Powell	169
+Vladimir_Putin	44	27
+Vladimir_Putin	31	Condoleezza_Rice	8
+Vladimir_Putin	29	Condoleezza_Rice	9
+Condoleezza_Rice	7	Colin_Powell	188
+Condoleezza_Rice	7	Colin_Powell	204
+Condoleezza_Rice	9	Colin_Powell	167
