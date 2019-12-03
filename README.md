@@ -8,3 +8,5 @@ Hey, thanks for stopping by. This is my personal GitHub repository where I store
 ## Future Projects
 - Normalization of musical melodies for song recognition
 - Organic chemistry reaction detection
+- roombA*
+- Expense-tracking application
